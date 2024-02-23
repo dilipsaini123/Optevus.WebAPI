@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Optevus.WebAPI.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240222120709_initials")]
-    partial class initials
+    [Migration("20240223092920_init")]
+    partial class init
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

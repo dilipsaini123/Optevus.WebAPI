@@ -5,7 +5,7 @@
 namespace Optevus.WebAPI.Migrations
 {
     /// <inheritdoc />
-    public partial class initials : Migration
+    public partial class init : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
